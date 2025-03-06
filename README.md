@@ -3,12 +3,12 @@ A full on notcurses-based terminal web browser with js/css/html parsing wgpu/was
 # Steps
 1 - make a simple tui browser(current)
 
-  1 - fetch webpage (current)
+  - 1 - fetch webpage (current)
   
-  2 - parse html
+  - 2 - parse html
   
-  3 - render output
+  - 3 - render output
   
 2 - begin sentel development
 
-  idk the steps yet but yeah
+  - idk the steps yet but yeah
