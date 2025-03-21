@@ -9,7 +9,11 @@ Development will consist of about like 4 parts
   - camera util
   - 
 2 - sound
+    
 3 - ECS
+
 4 - polish code
+
 5 - finalize
+
 6 - first release
