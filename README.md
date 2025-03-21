@@ -7,7 +7,7 @@ Development will consist of about like 4 parts
   - 2d (current)
   - 3d
   - camera util
-  - 
+ 
 2 - sound
     
 3 - ECS
